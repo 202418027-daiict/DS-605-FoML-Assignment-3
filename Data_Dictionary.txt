@@ -1,0 +1,18 @@
+| Feature                      | Description                                                             |
+---------------------------------------------------------------------------------------------------------|
+| TransactionID                | Unique identifier for the transaction                                   |
+| AccountID                    | Unique identifier for the customer's account                            |
+| TransactionAmount            | Amount of money involved in the transaction                             |
+| TransactionDate              | Date and time when the transaction occurred                             |
+| TransactionType              | Type of transaction (e.g., Credit, Debit and Online)                    |
+| Location                     | Geographical location where the transaction occurred                    |
+| DeviceID                     | Unique identifier for the device used for the transaction               |
+| IP Address                   | IP address used during the transaction                                  |
+| MerchantID                   | Unique identifier for the merchant involved in the transaction          |
+| Channel                      | Channel through which the transaction was processed (e.g., ATM, Online) |
+| CustomerAge                  | Age of the customer at the time of the transaction                      |
+| CustomerOccupation           | Occupation of the customer                                              |
+| TransactionDuration          | Duration (in seconds) of the transaction process                        |
+| LoginAttempts                | Number of login attempts made before the transaction                    |
+| AccountBalance               | Account balance after the transaction                                   |
+| PreviousTransactionDate      | Date and time of the previous transaction                               |
